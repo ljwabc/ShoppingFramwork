@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">爱琴海购</string>
+
+    <string-array name="tab_names">
+        <item>首页</item>
+        <item>品牌团</item>
+        <item>箱包</item>
+        <item>腕表</item>
+        <item>鞋靴</item>
+        <item>配饰</item>
+    </string-array>
+</resources>
